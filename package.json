@@ -19,5 +19,6 @@
   "homepage": "https://github.com/wolfmagus/bookworm-reader#readme",
   "dependencies": {
     "node-modules": "^1.0.1"
-  }
+  },
+  "proxy": "http://localhost:9000"
 }
